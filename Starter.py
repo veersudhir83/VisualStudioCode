@@ -1,3 +1,4 @@
 print 'Hi'
 a = 2*2.23
-print a
+print float(a)
+print int(a)
